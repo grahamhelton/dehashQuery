@@ -1,5 +1,5 @@
 # What is this? 
-This is a script that can be used in conjunction with [dehashed.com.](https://dehashed.com/) Dehashed allows anyone who has an API key to query their API to search for credentials that may exist in a breach database. This script simple uses the dehashed API and sorts the information returned. 
+This is a script that can be used in conjunction with [dehashed.com](https://dehashed.com/). Dehashed allows anyone who has an API key to query their API for credentials that may exist within a breach database. This script simply uses the dehashed API and sorts the information returned. 
 Currently the script does the following
 - Filters the results in the format of 
     - Raw dehashed data formatted with into json with JQ
