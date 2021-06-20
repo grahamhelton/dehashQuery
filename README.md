@@ -23,8 +23,17 @@ Currently the script does the following
 
 # How do I use it?
 To use the script, you need a [dehashed](https://dehashed.com/) account and API Key. 
+Next, install JQ
+### Debian
+```
+sudo apt-get install JQ
+```
 Then all you need to do is clone this repository and use the following command to query dehashed.
-``` ./dehashQuery.sh -l dehashedaccount -k <APIKEY> -s example.com ```
+
+```
+./dehashQuery.sh -l dehashedaccount -k <APIKEY> -s example.com 
+
+```
 This will search the dehashed database for any accounts associated with *example.com*
 
 ![](./example.gif)
