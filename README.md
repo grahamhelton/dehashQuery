@@ -15,8 +15,6 @@ Currently the script does the following
       "address": "123 main street",
       "phone": "123-123-1234",
       "database_name": "MyFitnessPal"
-    },
-
 	```
     - email:password
 	```example@testdomain.com:Pa$$word123```
