@@ -29,4 +29,4 @@ Then all you need to do is clone this repository and use the following command t
 ``` ./dehashQuery.sh -l dehashedaccount -k <APIKEY> -s example.com ```
 This will search the dehashed database for any accounts associated with *example.com*
 
-![](./example:wq.gif)
+![](./example.gif)
